@@ -5,4 +5,4 @@ start Github
 
 First Repository
 
-Let's do :coffee: in an :airplane: and :dancer:
+Let's do :coffee: in an :airplane: and :dancer: the :moon: :star: away
